@@ -1,6 +1,6 @@
-calculate_to_units = 24 * 60 * 60
+calculate_to_units = 2 * 6 * 6
 name_of_unit = "seconds"
-num_of_days = 3
+num_of_days = 2
 
 
 def days_to_units(num_of_days):
