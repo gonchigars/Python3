@@ -2,4 +2,4 @@
 print("hello")
 
 # print Number
-print(3)
+print(7)

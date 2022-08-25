@@ -1,5 +1,5 @@
-print(20 * 30 * 40)
+print(1 + 2 - 1 * 4)
 
 
-print(f"hello {20000 * 40}")
-print(f"sample multiplication {20*30} minutes")
+print(f"chalo {20 * 40}")
+print(f"sample multiplication {2*3} minutes")
